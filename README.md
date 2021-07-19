@@ -8,4 +8,4 @@ Por meio do teclado no computador é possível tocar os sons da bateria.
 Podendo também criar composições e tocá-la isenrindo os comandos por meio de um input.
 
 Você pode conferir o resultado no link abaixo. Divirta-se! 😄
-https://silly-wescoff-106caf.netlify.app/
+https://bateriavirtual.netlify.app/

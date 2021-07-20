@@ -13,8 +13,7 @@ https://bateriavirtual.netlify.app/
 ![bateria_virtual](https://user-images.githubusercontent.com/82469705/126398366-a6a547a5-d925-4399-8265-3629f756387b.jpg)
 
 
-#02 - Relógio Analógico
-Consite em um relógio analógico e um digital online. 
+#02 - Relógio Analógico e digital online. 
 https://relogio-analogico.netlify.app/
 
 ![relogio_analogico_js](https://user-images.githubusercontent.com/82469705/126398041-fa836b6e-becc-4d58-acd0-5bd616d5801d.jpg)

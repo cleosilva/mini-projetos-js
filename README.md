@@ -22,7 +22,7 @@ https://relogio-analogico.netlify.app/
 
 ### 03 - Clima Agora
 Site que devolve informações sobre o clima de acordo com a cidade digitada. 
-Traz informações sobre qualquer cidade do mundo. 
+Traz informações sobre qualquer cidade do mundo.</br>
 O que você verá nesse projeto? 
 Manipulação de API, requisição interna do API.
 https://clima-agora.netlify.app/

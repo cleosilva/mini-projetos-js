@@ -29,6 +29,17 @@ https://clima-agora.netlify.app/
 
 ![clima-agora](https://user-images.githubusercontent.com/82469705/126549174-fcfc42b8-80c9-47e2-b189-e994a411b366.jpg)
 
+### 04 - Jogo da Velha
+O jogo da velha consiste em um jogo para duas pessoas, cujo o objetivo é preencher um sequência de casas iguais.
+O que você verá nesse projeto?
+Escolha aleatória de jogador, manipulação de arrays, loops em arrays, criação de funções, seleção de elementos hmtl.
+Aproveite e jogue um pouco neste link: 
+https://game-tabulheiro.netlify.app/
+
+![jogo-da-velha](https://user-images.githubusercontent.com/82469705/128266193-91cdaa37-af7a-434f-bcea-8a0378c4d710.jpg)
+
+
+
 
 
 

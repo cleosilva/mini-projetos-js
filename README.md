@@ -38,7 +38,13 @@ https://game-tabulheiro.netlify.app/
 
 ![jogo-da-velha](https://user-images.githubusercontent.com/82469705/128266193-91cdaa37-af7a-434f-bcea-8a0378c4d710.jpg)
 
+### 05 - Quiz
+Sistema de perguntas e respostas. O quizzes são ótimos para criar testes online. 
+O que você verá nesse projeto?
+Manipulação de arrays, criação de barra de progresso, loops.
+Aproveite e teste seu conhecimento sobre o seriado do Chaves: https://quiz-chaves.netlify.app/
 
+![quiz-perguntas](https://user-images.githubusercontent.com/82469705/128580106-badef43e-a084-4b5b-879b-969c27cfbd84.jpg)
 
 
 
